@@ -1,3 +1,5 @@
+### 꾸준하게 성장하는 개발자 김용우 입니다!!  
+
 ## Skills
 ### Language
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
@@ -19,10 +21,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white"/></a>
 
 
 ## Visited
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoybean33%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoybean33&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Algorithm
 [![Solved.ac
@@ -32,13 +35,23 @@
 [![soybean33's GitHub stats](https://github-readme-stats.vercel.app/api?username=soybean33)](https://github.com/soybean33/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soybean33&layout=compact)](https://github.com/soybean33/github-readme-stats)
 
+## Career
+23.1 ~ SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
+
+## Awards
+22.6.30 우수논문상 / 2022 한국컴퓨터종합학술대회 정보보안 및 고신뢰컴퓨팅 분야 우수논문  
+
+23.5.26 1학기 프로젝트 우수상 / 삼성 청년 SW 아카데미 프로젝트 경진대회 우수팀으로 선정(라즈베리파이 Sensing Data를 활용한 IoT RC카 제작)  
+
+[23.8.18 우수상 / 삼성 청년 SW 아카데미 공통 프로젝트 우수팀으로 선정(웹IoT)](https://github.com/soybean33/EYAKPJT)
+
+
+## License
+23.8.23 SW 역량테스트 Pro / 삼성전자주식회사   
+
 ## Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:greenlife126@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-<div>
+
+<img src="https://img.shields.io/badge/greenlife126@gamil.com-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **soybean33/soybean33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
