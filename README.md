@@ -39,8 +39,6 @@
 23.1 ~ SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
 
 ## Awards
-22.6.30 우수논문상 / 2022 한국컴퓨터종합학술대회 정보보안 및 고신뢰컴퓨팅 분야 우수논문  
-
 23.5.26 1학기 프로젝트 우수상 / 삼성 청년 SW 아카데미 프로젝트 경진대회 우수팀으로 선정(라즈베리파이 Sensing Data를 활용한 IoT RC카 제작)  
 
 [23.8.18 우수상 / 삼성 청년 SW 아카데미 공통 프로젝트 우수팀으로 선정(웹IoT)](https://github.com/soybean33/EYAKPJT)
