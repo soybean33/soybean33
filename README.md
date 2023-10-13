@@ -14,9 +14,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soybean33)](https://solved.ac/soybean33)
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soybean33&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soybean33)](https://github.com/soybean33/github-readme-stats)
+## Summary
+[![soybean33's GitHub stats](https://github-readme-stats.vercel.app/api?username=soybean33)](https://github.com/soybean33/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soybean33&layout=compact)](https://github.com/soybean33/github-readme-stats)
+
 
 
 <!--
