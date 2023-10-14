@@ -18,7 +18,7 @@
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 
 ### Etc
-<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Maria db-003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
+<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Maria DB-003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/My SQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
