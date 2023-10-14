@@ -53,11 +53,11 @@
 
 23.05.26 1학기 프로젝트 우수상 / 삼성 청년 SW 아카데미 프로젝트 경진대회 우수팀(라즈베리파이 Sensing Data를 활용한 IoT RC카 제작) / 삼성전자주식회사  
 
-23.08.18 우수상 / 삼성 청년 SW 아카데미 [공통 프로젝트](https://github.com/soybean33/EYAKPJT) 우수팀(웹IoT) / 삼성전자 주식회사  
+23.08.18 우수상 / 삼성 청년 SW 아카데미 [공통 프로젝트](https://github.com/soybean33/EYAKPJT) 우수팀(웹IoT) / 삼성전자주식회사  
 
 
 ## License
-23.08.23 SW 역량테스트 Pro / 삼성전자주식회사   
+23.09.23 SW 역량테스트 Pro / 삼성전자주식회사   
 
 ## Contact
 
