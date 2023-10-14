@@ -1,4 +1,6 @@
-### 꾸준하게 성장하는 개발자 김용우 입니다!!  
+### 꾸준하게 성장하는 개발자 김용우 입니다!! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoybean33&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/soybean33)  
+
+"**언젠가는 그들도 한 번쯤은 쉴 것이고, 그때 내가 쉬지 않고 나아간다면 차이는 조금이라도 줄어들 것이다.**" 라는 마음가짐으로 매일 조금씩 나아가고 있습니다.
 
 ## Skills
 ### Language
@@ -24,28 +26,38 @@
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white"/></a>
 
 
-## Visited
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoybean33&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/soybean33)
+## Project
+23.07.04 ~ 23.08.18 [지금이:약](https://github.com/soybean33/EYAKPJT) / 팀장, FrontEnd  
+23.08.28 ~ 23.10.06 [HoresBit](https://github.com/soybean33/HORESBITPJT) / FrontEnd  
+
 
 ## Algorithm
+### 백준
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soybean33)](https://solved.ac/soybean33)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soybean33)](https://solved.ac/soybean33)  
+**[내 풀이 모음](https://github.com/soybean33/BAEKJOON)**  
+
+### [알고리즘 스터디](https://github.com/soybean33/Algorithm-Study)  
+23.02 ~ [이충혁](https://github.com/chyuk98), [김용우](https://github.com/soybean33), [박준섭](https://github.com/zooonsp), [이재홍](https://github.com/h78749891), [정영훈](https://github.com/ChocoBreeze), [탁성건](https://github.com/profornnan)
+
 
 ## Summary
 [![soybean33's GitHub stats](https://github-readme-stats.vercel.app/api?username=soybean33)](https://github.com/soybean33/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soybean33&layout=compact)](https://github.com/soybean33/github-readme-stats)
 
 ## Career
-23.1 ~ SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
+23.01 ~ SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
 
 ## Awards
-23.5.26 1학기 프로젝트 우수상 / 삼성 청년 SW 아카데미 프로젝트 경진대회 우수팀으로 선정(라즈베리파이 Sensing Data를 활용한 IoT RC카 제작)  
+22.06.30 우수논문상 / 2022 한국컴퓨터종합학술대회 정보보안 및 고신뢰컴퓨팅 분야의 우수논문 / 한국정보과학회  
 
-[23.8.18 우수상 / 삼성 청년 SW 아카데미 공통 프로젝트 우수팀으로 선정(웹IoT)](https://github.com/soybean33/EYAKPJT)
+23.05.26 1학기 프로젝트 우수상 / 삼성 청년 SW 아카데미 프로젝트 경진대회 우수팀(라즈베리파이 Sensing Data를 활용한 IoT RC카 제작) / 삼성전자주식회사  
+
+23.08.18 우수상 / 삼성 청년 SW 아카데미 [공통 프로젝트](https://github.com/soybean33/EYAKPJT) 우수팀(웹IoT) / 삼성전자 주식회사  
 
 
 ## License
-23.8.23 SW 역량테스트 Pro / 삼성전자주식회사   
+23.08.23 SW 역량테스트 Pro / 삼성전자주식회사   
 
 ## Contact
 
