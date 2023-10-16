@@ -18,8 +18,8 @@
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 
 ### Etc
-<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Maria DB-003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
-<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/My SQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
+<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
@@ -57,7 +57,7 @@
 
 
 ## License
-23.09.23 SW 역량테스트 Pro / 삼성전자주식회사   
+23.09.23 SW 역량테스트 Pro(언어 C++) / 삼성전자주식회사   
 
 ## Contact
 
