@@ -21,6 +21,7 @@
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=flat-square&logo=mariadb&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=white"/></a>
+<a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white"/></a>
 <a href = "https://github.com/soybean33"> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=Figma&logoColor=white"/></a>
