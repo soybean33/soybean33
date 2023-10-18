@@ -29,7 +29,7 @@
 
 ## Project
 23.07.04 ~ 23.08.18 [지금이:약](https://github.com/soybean33/EYAKPJT) / 팀장, FrontEnd  
-23.08.28 ~ 23.10.06 [HoresBit](https://github.com/soybean33/HORESBITPJT) / FrontEnd  
+23.08.28 ~ 23.10.06 [HoresBit](https://github.com/soybean33/HORSEBITPJT) / FrontEnd  
 
 
 ## Algorithm
