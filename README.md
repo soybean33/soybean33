@@ -31,7 +31,7 @@
 21.03.01 ~ 21.12.31 - CDM 기반 정밀의료 데이터 통합 플랫폼 기술 개발 / 연구원 / 한국보건산업진흥원  
 23.07.04 ~ 23.08.18 - [지금이:약](https://github.com/soybean33/EYAKPJT) / 팀장, FrontEnd / SSAFY  
 23.08.28 ~ 23.10.06 - [HoresBit](https://github.com/soybean33/HORSEBITPJT) / FrontEnd / SSAFY  
-23.10.09 ~ 진행 - 손톡 / FrontEnd, ML / SSAFY  
+23.10.09 ~ 진행 - 손톡 / FrontEnd, Machine Learning / SSAFY  
 
 ## Algorithm
 ### 백준
