@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soybean33&layout=compact)](https://github.com/soybean33/github-readme-stats)
 
 ## Career
-23.01 ~ SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
+23.01 ~ 23.12 SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
 
 ## Awards
 22.06.30 우수논문상 / 2022 한국컴퓨터종합학술대회 정보보안 및 고신뢰컴퓨팅 분야의 우수논문 / 한국정보과학회  
