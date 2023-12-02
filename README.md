@@ -31,7 +31,7 @@
 21.03.01 ~ 21.12.31 - CDM 기반 정밀의료 데이터 통합 플랫폼 기술 개발 / 연구원 / 한국보건산업진흥원  
 23.07.04 ~ 23.08.18 - [지금이:약](https://github.com/soybean33/EYAKPJT) / 팀장, FrontEnd / SSAFY  
 23.08.28 ~ 23.10.06 - [HoresBit](https://github.com/soybean33/HORSEBITPJT) / FrontEnd / SSAFY  
-23.10.09 ~ 23.11.29 - 손톡 / FrontEnd, Machine Learning / SSAFY  
+23.10.09 ~ 23.11.29 - [손톡](https://github.com/soybean33/SONTOKPJT) / FrontEnd, Machine Learning / SSAFY  
 
 ## Algorithm
 ### 백준
@@ -57,9 +57,9 @@
 
 23.08.18 우수상 / 삼성 청년 SW 아카데미 [공통 프로젝트](https://github.com/soybean33/EYAKPJT) 우수팀(웹IoT) / 삼성전자주식회사  
 
-23.11.17 우수상 / 삼성 청년 SW 아카데미 자율 프로젝트 우수팀 / 삼성전자주식회사  
+23.11.17 우수상 / 삼성 청년 SW 아카데미 [자율 프로젝트](https://github.com/soybean33/SONTOKPJT) 우수팀 / 삼성전자주식회사  
 
-23.11.29 결선발표회 우수상 / 삼성 청년 SW 아카데미 자율 프로젝트 결선발표회 우수팀 / 삼성전자주식회사  
+23.11.29 결선발표회 우수상 / 삼성 청년 SW 아카데미 [자율 프로젝트](https://github.com/soybean33/SONTOKPJT) 결선발표회 우수팀 / 삼성전자주식회사  
 
 
 ## License
