@@ -40,7 +40,7 @@
 **[내 풀이 모음](https://github.com/soybean33/BAEKJOON)**  
 
 ### [알고리즘 스터디](https://github.com/soybean33/Algorithm-Study)  
-23.02 ~ [이충혁](https://github.com/chyuk98), [김용우](https://github.com/soybean33), [박준섭](https://github.com/zooonsp), [이재홍](https://github.com/h78749891), [정영훈](https://github.com/ChocoBreeze), [탁성건](https://github.com/profornnan)
+23.02 ~ 23.11 [이충혁](https://github.com/chyuk98), [김용우](https://github.com/soybean33), [박준섭](https://github.com/zooonsp), [이재홍](https://github.com/h78749891), [정영훈](https://github.com/ChocoBreeze), [탁성건](https://github.com/profornnan)
 
 
 ## Summary
