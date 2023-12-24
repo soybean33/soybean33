@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soybean33&layout=compact)](https://github.com/soybean33/github-readme-stats)
 
 ## Career
-23.01 ~ 23.12 SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track  
+23.01 ~ 23.12 SSAFY(SAMSUNG Software Academy For Youth) 9th Embedded Track / 최우수 수료(상위 5%)  
 
 ## Awards
 22.06.30 우수논문상 / 2022 한국컴퓨터종합학술대회 정보보안 및 고신뢰컴퓨팅 분야의 우수논문 / 한국정보과학회  
@@ -57,9 +57,9 @@
 
 23.08.18 우수상 / 삼성 청년 SW 아카데미 [공통 프로젝트](https://github.com/soybean33/EYAKPJT) 우수팀(웹IoT) / 삼성전자주식회사  
 
-23.11.17 우수상 / 삼성 청년 SW 아카데미 [자율 프로젝트](https://github.com/soybean33/SONTOKPJT) 우수팀 / 삼성전자주식회사  
+23.11.24 우수상 / 삼성 청년 SW 아카데미 [자율 프로젝트](https://github.com/soybean33/SONTOKPJT) 서울 6반 1등 / 삼성전자주식회사  
 
-23.11.29 결선발표회 우수상 / 삼성 청년 SW 아카데미 [자율 프로젝트](https://github.com/soybean33/SONTOKPJT) 결선발표회 우수팀 / 삼성전자주식회사  
+23.11.29 결선발표회 우수상 / 삼성 청년 SW 아카데미 [자율 프로젝트](https://github.com/soybean33/SONTOKPJT) 결선발표회 2등 / 삼성전자주식회사  
 
 
 ## License
